@@ -25,9 +25,9 @@ Once everything is provisionned, you can ssh to the master node and start playin
    vagrant ssh master
    $ docker node ls
    ID                            HOSTNAME            STATUS              AVAILABILITY        MANAGER STATUS      ENGINE VERSION
-   cz1sx7iobgyrsiuzsbycbnnj0 *   master              Ready               Active              Leader              19.03.6
-   pnb11pvhybb0fiye6fvrwopr2     node1               Ready               Active                                  19.03.6
-   jh6pw2a1flparrq1nczgmmn6q     node2               Ready               Active                                  19.03.6
+   cz1sx7iobgyrsiuzsbycbnnj0 *   master              Ready               Active              Leader              19.03.11
+   pnb11pvhybb0fiye6fvrwopr2     node1               Ready               Active                                  19.03.11
+   jh6pw2a1flparrq1nczgmmn6q     node2               Ready               Active                                  19.03.11
    ```
 
 ## Credits:
