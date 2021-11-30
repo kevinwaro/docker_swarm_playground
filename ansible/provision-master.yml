@@ -42,7 +42,7 @@
             name: vagrant
             group: docker
 
-      - name: Disable swapp
+      - name: Disable swap
         command: sed -i '/swap/d' /etc/fstab
 
       - name: Disable swap
